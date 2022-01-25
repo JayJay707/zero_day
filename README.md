@@ -1,1 +1,3 @@
-This is a project to learn to use Git.
+# Zero Day
+
+This is a project to start learning code.
